@@ -1,0 +1,4 @@
+Replace the file at /usr/share/kbd/keymaps/i386/qwerty/uk.map.gz with the keymap file here.
+Swaps Control and Caps Lock in the kernel keymap for the tty.
+setxkbmap -option ctrl:swapcaps does the same thing in x.
+
